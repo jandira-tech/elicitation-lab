@@ -1,0 +1,5 @@
+.git
+.gitignore
+node_modules
+*_test.ts
+DESIGN.md
