@@ -1,5 +1,7 @@
 # Elicitation Lab
 
+Hosted copy: https://arthrod--a1dde74ed98711f1b86b1607ee4eb77e.web.val.run/
+
 An interactive demonstration of the shape of an MCP `elicitation/create`
 request and response. Choose one of three example requests, fill the form,
 inspect its JSON payload, and send it to a server-side validator. The examples
